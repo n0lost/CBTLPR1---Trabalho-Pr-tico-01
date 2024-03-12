@@ -1,4 +1,4 @@
-//Gabriel Afonso dos Santos - CB3026167
+//Gabriel Afonso dos Santos CB3026167
 
 package exercicios;
 
