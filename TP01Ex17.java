@@ -15,7 +15,7 @@ public class TP01Ex17 {
     
         double resultado = Math.pow(x, y);
     
-        System.out.println("O resultado de X elevado a Y é: " + resultado);
+        System.out.println("O resultado de X elevado a Y e: " + resultado);
     }
     
 }
