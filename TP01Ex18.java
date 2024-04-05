@@ -18,6 +18,6 @@ public class TP01Ex18 {
     
         double troco = pago - total;
     
-        System.out.println("O troco é: R$" + troco);
+        System.out.println("O troco e: R$" + troco);
     }
 }
